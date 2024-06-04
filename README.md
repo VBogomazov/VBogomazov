@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VBogomazov
+- 👀 I’m interested in business and sistem analyst
+- 🌱 I’m currently learning container clustering
+- 📫 How to reach me tg @VBogomazov
+- ⚡ Fun fact: Customer: "I'm a customer, tell me how to do it", Analyst: "Here's how to do it", Customer: "I don't agree"
